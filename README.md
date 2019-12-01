@@ -1,5 +1,7 @@
 # Upload to S3 with Express.js and Vue.js
 
+More context [here](https://fabiofranchino.com/blog/upload-on-s3-with-express-and-vue-part-1)
+
 ### Setup
 
     npm install
